@@ -1,0 +1,20 @@
+Grotz    Klingon        6.9         1006.4    Black       3.5       Hostile
+Tlarr    Klingon        7.0          994.3    Black       2.3       Hostile
+Tribok   Klingon        7.3          978.1    Dark Gray   2.8       Hostile
+Brogut   Klingon        7.1         1005.4    Dark Gray   3.0       Hostile
+Glorek   Klingon        7.1         1001.8    Light Gray  1.0       Hostile
+Lorif    Romulan        7.3          980.4    Dark Blue   1.6       Alert
+Rallev   Romulan        7.4          977.2    Dark Green  1.8       Alert
+Willosh  Romulan        7.3          947.9    Light Gray  1.9       Alert
+Loshar   Romulan        7.2          955.8    Light Blue  2.1       Alert
+Sarash   Romulan        7.4          960.7    Light Gray  2.3       Alert
+A2231    Antarean       6.7         1010.9    Pink        1.2      Friendly
+E7763    Antarean       6.8         1033.2    Orange      1.2      Friendly
+E9091    Antarean       6.5         1025.4    Light Blue  1.1      Friendly
+A0199    Antarean       6.8         1066.2    Yellow      1.3      Friendly
+A1091    Antarean       6.7         1015.0    Light Blue  1.0      Friendly
+Daisy    Federation     6.7         1050.0    White       1.9      Friendly
+Rosehip  Federation     6.8         1055.0    Light Gray  2.0      Friendly
+Gardenia Federation     6.5         1045.0    White       2.1      Friendly
+Herb     Federation     6.4         1065.0    Light Gray  2.6      Friendly
+Cinnamon Federation     6.5         1055.0    Light Gray  1.7      Friendly
